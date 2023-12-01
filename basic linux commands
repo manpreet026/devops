@@ -10,3 +10,10 @@
 8) To clear screen- clear
 9) To list all commands done till now- history
 10) Another text editor- nano
+11) Make a new folder/directory- mkdir <directory-name>
+12) Creating 5 files at once - touch file{1..5}.txt  [Only 2 dots]
+13) Remove files-  rm file{1..5}.txt
+14) Manual of a command can be seen by command- man 
+15) For updating - sudo apt update
+16) For upgrade- sudo apt upgrade
+
