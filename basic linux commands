@@ -1,0 +1,12 @@
+1) Changing the directory- cd
+2) Get the present working directory- pwd
+3) Listing all files/folders- ls
+4) Make a new file- touch <filename>
+5) An editor- vim
+6) Inside vim editor:
+                    Insertion press i
+                    Write and save wq
+7) Display content of file- cat <filename>
+8) To clear screen- clear
+9) To list all commands done till now- history
+10) Another text editor- nano
