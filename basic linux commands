@@ -17,3 +17,4 @@
 15) For updating - sudo apt update
 16) For upgrade- sudo apt upgrade
 17) Copy the code
+18) Display contents of file- cat
