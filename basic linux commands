@@ -18,3 +18,4 @@
 16) For upgrade- sudo apt upgrade
 17) Copy the code
 18) Display contents of file- cat
+19) ping - Network Connectivity: Check network connectivity to a host. Example: ping google.com
