@@ -16,6 +16,6 @@
 14) Manual of a command can be seen by command- man 
 15) For updating - sudo apt update
 16) For upgrade- sudo apt upgrade
-17) Copy the code
+17) Copy the code- cp
 18) Display contents of file- cat
 19) ping - Network Connectivity: Check network connectivity to a host. Example: ping google.com
