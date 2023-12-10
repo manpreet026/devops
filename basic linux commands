@@ -19,3 +19,4 @@
 17) Copy the code-cp
 18) Display contents of file- cat
 19) ping - Network Connectivity: Check network connectivity to a host. Example: ping google.com
+20) go in previous file - cd ..
