@@ -20,5 +20,5 @@
 18) Display contents of file- cat
 19) ping - Network Connectivity: Check network connectivity to a host. Example: ping google.com
 20) go in previous file - cd ..
-21) for printing on the screen - echo "hello"
+21) for printing on the screen  - echo "hello"
 22) check for disk space- df -H
